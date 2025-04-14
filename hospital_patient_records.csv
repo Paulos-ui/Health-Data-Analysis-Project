@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Department,Diagnosis,Visit_Date,Treatment_Cost,Doctor_Name,Hospital_Location
+101,45,Male,Cardiology,Heart Attack,2024-01-15,200000,Dr. Smith,Lagos
+102,60,Female,Neurology,Stroke,2024-02-12,150000,Dr. Allen,Abuja
+103,30,Female,Orthopedics,Fracture,2024-03-05,50000,Dr. Rose,Port Harcourt
+104,25,Male,Pediatrics,Fever,2024-03-15,10000,Dr. Khan,Lagos
+105,70,Male,Cardiology,Hypertension,2024-04-01,180000,Dr. Smith,Lagos
